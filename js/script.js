@@ -107,7 +107,7 @@ const surahPage = () => {
     no_s = url.substr(url.indexOf('?') + 1);
   }
 
-  const url_api = `https://api.alquran.cloud/v1/surah/${no_s}/editions/ar.alafasy,en.transliteration,id.indonesian`;
+  const url_api = `https://api.alquran.cloud/v1/surah/${no_s}/editions/ar.alafasy,en.transliteration,fa.ansarian`;
   let surah = [];
   let jmlAyah;
 

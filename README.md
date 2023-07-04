@@ -1,3 +1,3 @@
-# belajar-ngaji
+# quran-holy-book
 
-live demo [belajar-ngaji](https://belajar-ngaji.awahids.my.id/)
+live demo [quran-holy-book](https://quran.pardisania.ir/)
